@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Downloaded Yahoo Finance prices -- rebuilt by src/data.py; not redistributed
+cache/
+
+.DS_Store
